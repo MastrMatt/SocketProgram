@@ -17,9 +17,6 @@
 #include <sys/time.h>
 #include <unistd.h>
 
-// Constants
-int messageLength = 2;
-
 // Function prototypes
 void Trans(int n );
 void Sleep(int n );
