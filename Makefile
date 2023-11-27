@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -std=gnu11
+CFLAGS = -Wall -std=gnu11 -g
 
 all: client server mainDriver
 
